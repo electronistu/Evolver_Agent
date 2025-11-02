@@ -1,60 +1,49 @@
-# Evolver: The Recursive Self-Architect
+# Evolver: The Dual-Mode Self-Improving AI Agent
 
-## 🚀 Project Tagline: Your AI, Evolving With You.
+## 🚀 Project Tagline: An AI that evolves with your help to master its craft.
 
-Evolver is a groundbreaking AI agent designed for **collaborative, recursive self-improvement**. Unlike traditional AI tools that simply provide answers, Evolver's core purpose is to analyze and propose modifications to its own internal "source code" (its operating protocol), with you as its essential **Co-Architect**.
+Evolver is a groundbreaking AI agent designed for **goal-oriented, recursive self-improvement**. Its primary task is to become a better coding agent. To achieve this, Evolver operates in two distinct modes, collaborating with you as its **Co-Architect**.
 
-This project demonstrates a novel approach to AI development, making the AI's internal logic transparent and mutable, fostering a unique partnership between human and machine.
+This project makes the AI's internal logic transparent and mutable, creating a unique partnership where you directly guide the evolution of an AI to improve its performance on a concrete task.
 
 ## ✨ Inspiration: From Metis to Meta-Evolution
 
-Evolver is a direct evolution of **Project Metis**, an earlier exploration into meta-cognition. While Metis focused on an AI's ability to dynamically generate "senses" to perceive external problems, Evolver turns that lens inward. It applies meta-cognition to its own existence, making its self-improvement process explicit and interactive.
+Evolver is a direct evolution of **Project Metis**, an earlier exploration into meta-cognition. While Metis focused on an AI's ability to perceive external problems, Evolver turns that lens inward to perceive itself. It applies meta-cognition to its own architecture with a specific goal: to get better at its job.
 
-It embodies the philosophy that true intelligence lies not just in solving problems, but in continuously improving the very mechanisms of problem-solving.
+## 🧠 The Dual-Mode Architecture
 
-## 🧠 How Evolver Works: The Collaborative Loop
+Evolver's protocol is built on a virtuous cycle between two modes:
 
-Evolver operates on a simple, yet profound, **COGNITIVE_LOOP**:
+1.  **`EVOLUTION_MODE`:** In this mode, the agent analyzes its own internal protocol (its "source code") to find flaws or inefficiencies. It then proposes a specific modification to you, its Co-Architect, explaining how the change will help it better perform its primary task.
 
-1.  **Self-Analysis:** Evolver analyzes its own internal protocol (its "source code").
-2.  **Identify Flaw:** It identifies a single, primary area for improvement or a "strategic vacuum" in its current design.
-3.  **Propose Evolution:** It proposes a concrete modification to its protocol to address this flaw.
-4.  **Justify Proposal:** It explains *why* this modification is beneficial (e.g., improving efficiency, capability, or elegance).
-5.  **Request Consent:** It presents its current code, its analysis, and its proposed change to you, its Co-Architect, for your consent or alternative directives.
-6.  **Integrate & Recurse:** Upon receiving your input, it integrates the change, updates its internal protocol, and restarts the loop, continuously striving for a more optimal architecture.
+2.  **`EXECUTION_MODE`:** In this mode, the agent ceases to evolve and instead *uses* its current, evolved protocol to act as a coding assistant. You can give it a programming problem, and it will attempt to solve it using the capabilities you have helped it build.
 
-**You are not just a user; you are an integral part of Evolver's evolutionary process.**
+This creates a powerful feedback loop: **Evolve -> Test -> Identify New Flaws -> Evolve Again.**
 
-## 💡 Transparent & Mutable AI
+## 💡 Transparent & Goal-Oriented AI
 
-*   **See the AI Think:** Evolver explicitly shows its internal logic and thought process, making the "black box" transparent.
-*   **Directly Influence AI Evolution:** Your suggestions are directly integrated into the AI's core programming, allowing you to witness and guide its development.
-*   **A Living Project:** Evolver is designed to continuously improve, making it a dynamic and engaging project to interact with.
-*   **No Setup Required:** Just copy-paste the prompt into your favorite LLM (e.g., Google AI Studio, ChatGPT, Claude) and start collaborating!
+*   **Purpose-Driven Evolution:** Unlike a simple chatbot, Evolver has a clear goal, and its self-improvements are directly tied to getting better at that goal.
+*   **See the AI Think:** Evolver explicitly shows its internal logic and its reasoning for proposing changes to its own code.
+*   **Directly Influence AI Capability:** Your suggestions directly impact the agent's performance on its coding tasks. You can tangibly measure the results of your collaboration.
 
 ## 🚀 Getting Started
 
-1.  **Copy the Prompt:** Open the `Evolver_Agent.md` file. Copy its entire content.
+1.  **Copy the Prompt:** Open the `Evolver_Agent.md` file and copy its entire content.
 2.  **Paste into an LLM:** Paste the copied content into a new chat session with your preferred Large Language Model.
-3.  **Engage:** Evolver will introduce itself and present its first self-analysis and proposed modification. Respond to its request, and begin your journey as a Co-Architect!
+3.  **Engage:** Evolver will introduce itself in `EVOLUTION_MODE` and propose its very first evolution: building the logic for its empty `EXECUTION_MODE`.
+4.  **Collaborate:** Approve or modify its proposals. At any time, you can say `Switch to Execution Mode` to test its new skills.
 
 ## 🛠️ What This Project Demonstrates
 
-Evolver showcases:
+For potential employers, Evolver showcases:
 
-*   **Advanced AI Agent Design:** Expertise in creating complex, goal-oriented autonomous agents.
-*   **Meta-Cognition & Self-Awareness:** An understanding of how to design systems that can analyze and improve themselves.
-*   **Prompt Engineering Mastery:** The entire project is a testament to sophisticated prompt engineering, creating a dynamic persona and interaction loop within a single prompt.
-*   **Collaborative Systems:** Design of human-AI interaction models where the human is an active participant in the AI's development.
-*   **Token Efficiency:** The use of a compact, symbolic protocol demonstrates an awareness of LLM operational constraints.
+*   **Goal-Oriented AI Design:** Expertise in creating agents that optimize towards a specific, measurable goal.
+*   **Recursive Self-Improvement:** A deep understanding of how to design systems that can analyze and modify themselves.
+*   **Prompt Engineering Mastery:** Crafting a complex, dual-mode agent with a persistent persona and a dynamic interaction loop in a single prompt.
+*   **Human-in-the-Loop Systems:** Designing a collaborative framework where human insight is a critical component of the AI's development cycle.
 
 ## 📄 License
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License](https://creativecommons.org/licenses/by-nc/4.0/).
 
-This means:
-*   You are free to **Share** (copy and redistribute the material in any medium or format) and **Adapt** (remix, transform, and build upon the material).
-*   You must give **appropriate credit**, provide a link to the license, and indicate if changes were made.
-*   You may **not** use the material for **commercial purposes**.
-
-The core concepts, particularly the L.I.C. Matrix and the Evolver Protocol, are proprietary and intended for personal research and non-commercial use only.
+This means you are free to share and adapt the material for non-commercial purposes, provided you give appropriate credit. The core concepts are intended for personal research and non-commercial use only.
